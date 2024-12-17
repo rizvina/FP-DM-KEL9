@@ -55,7 +55,7 @@ def main():
     )
 
     if st.checkbox('Bagaimana kepercayaan masyarakat terhadap DANA sebagai sarana transaksi online?'):
-        dfx = pd.read_csv('/content/data_bersih.csv', sep=';')
+        dfx = pd.read_csv('data_bersih.csv', sep=';')
 
         if 'sentimen' in dfx.columns:
             plot_eda(dfx)
