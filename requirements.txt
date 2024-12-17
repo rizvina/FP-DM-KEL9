@@ -1,7 +1,6 @@
 pip==24.1.2
 pandas==2.2.2
 numpy==1.26.4
-pickle
 streamlit
 matplotlib==3.8.0
 wget
