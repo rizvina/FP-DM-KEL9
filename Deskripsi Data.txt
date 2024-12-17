@@ -1,0 +1,4 @@
+Berikut merupakan data ulasan pengguna aplikasi DANA yang digunakan untuk melakukan prediksi kredibilitas ulasan, yang diambil dari Google Play Store. Atribut yang digunakan sebagai berikut:
+Ulasan: Komentar atau feedback pengguna tentang aplikasi.
+Score: Penilaian dari 1 hingga 5 score mengenai kepuasan pengguna.
+Sentiment: Berisi label kepercayaan ulasan pengguna yang dibagi menjadi 2 kategori, yaitu "Bisa Dipercaya" dan "Tidak Bisa Dipercaya", berdasarkan kecocokan antara isi ulasan (komentar) dengan rating (penilaian score).
